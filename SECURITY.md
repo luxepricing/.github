@@ -17,6 +17,13 @@ Please include as much of the following as you can:
 - Step-by-step instructions to reproduce it
 - Any proof-of-concept code, screenshots, or logs
 
+If you would like to encrypt sensitive details, use our PGP key: [`security-gpg-public.asc`](security-gpg-public.asc)
+
+```
+Luxe Pricing Security <security@luxepricing.com>
+Fingerprint: 4704 C3A1 5040 80E5 69E2  EEE6 9A71 E4B0 1580 6AEA
+```
+
 ## What to Expect
 
 - We will acknowledge your report and keep you informed as we investigate.

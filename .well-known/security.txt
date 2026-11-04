@@ -3,6 +3,7 @@
 
 Contact: https://luxepricing.atlassian.net/servicedesk/customer/portal/106/create/204
 Expires: 2027-11-02T23:59:59.000Z
+Encryption: https://raw.githubusercontent.com/luxepricing/.github/main/security-gpg-public.asc
 Preferred-Languages: en
 Canonical: https://raw.githubusercontent.com/luxepricing/.github/main/.well-known/security.txt
 Canonical: https://luxepricing.com/.well-known/security.txt
